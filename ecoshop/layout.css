@@ -1,0 +1,133 @@
+
+body{
+background-image:url(fundo.png);
+background-repeat: no-repeat;
+background-position: bottom;
+height: 935px;
+}
+
+
+.menu{
+	background: #9AD9C2;
+	color: #ffff;
+	height: 50px;
+	width: 100%;
+	text-align: justify;
+	font-family: Marvel, sans-serif;
+	font-size: 23px;
+}
+
+.tabela{
+	height: 400px;
+	width: 500px;
+	text-align: center;
+	font-size: 30px;
+	font-family: Marvel, sans-serif;;
+	color: #F29544 ;  
+	margin: auto;
+  	width: 60%;
+  	border: 1px solid #F29544 ;
+	padding: 10px;
+	  
+}
+
+#logo{
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#carrinho{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.botao1{
+  background-color: #F2DA5E;
+  color: white;
+  border: 2px solid #F2DA5E;
+}
+
+.titulo1{
+	font-family: Vallato, sans-serif;
+	color: #9AD9C2;
+	font-size:65px;
+}
+
+a:link{
+	color: white;
+	background-color: transparent;
+	text-decoration: none;
+}
+
+a:visited{
+	color: white;
+	background-color: transparent;
+	text-decoration: none;
+}
+
+a:hover {
+	color:#F29544;
+	background-color: transparent;
+	text-decoration: none; 
+}
+
+a:active{
+	color: #F29544;
+	background-color: transparent;
+	text-decoration: none;
+}
+
+#produto1{
+	margin-right: 80px;
+	margin-left: 150px;
+}
+
+#Nome{
+	margin-right: 2px;
+	font-family: Marvel, sans-serif;
+	text-align: center;
+
+}
+
+#Preço{
+	margin-right: 2px;
+	font-family: Marvel, sans-serif;
+	text-align: center;
+}
+
+.botao2{
+	background-color: #F2DA5E;
+  	color: white;
+  	border: 2px solid #F2DA5E;
+	width: 88px;
+	height: 65px;
+	margin-left: 215px;
+	margin-top: 80px;
+}
+
+#aa{
+	font-family: Marvel, sans-serif;
+	text-align: center;
+}
+
+#caixa{
+	width: 45px;
+}
+
+.botao3{
+	background-color: #F2DA5E;
+  	color: white;
+  	border: 2px solid #F2DA5E;
+	width: 88px;
+	height: 65px;
+	margin-left: 50px;
+	margin-top: 80px;
+
+}
+
+@font-face {
+	font-family: 'Marvel';
+	src: url('../fonts/Marvel-Regular.ttf');
+}
